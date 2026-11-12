@@ -1,0 +1,7 @@
+parameter,min,max,log
+crb3_vs,0.0001,0.05,True
+crb3_vg,1e-06,0.001,True
+crb3_vh,0.001,1.0,True
+crb3_ssmax,0.05,1.0,False
+crb3_sfc,0.05,0.95,False
+crb3_lambda,0.0,1.0,False
